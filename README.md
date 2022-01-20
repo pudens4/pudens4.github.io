@@ -1,13 +1,17 @@
 # pudens4.github.io
 
 ## Overview 
-
-I'll use the skills developed in html, javascript, css etc to create
-a website to showcase my work and make this a portfolio. 
+The following repository will host my website that will be served as 
+my portfolio to showcase different projects. It will also showcase 
+part of my personal life including hobbies. 
 
 ## Resources
 
 The different resources I'll be using are the following 
 - html
 - css
-- javascript
+
+## Challenges 
+
+
+## Results
