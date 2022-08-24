@@ -7,9 +7,8 @@ part of my personal life including hobbies.
 
 ## Resources
 
-The different resources I'll be using are the following 
-- html
-- css
+The template use to create the website is the following
+https://startbootstrap.com/previews/stylish-portfolio
 
 ## Challenges 
 
